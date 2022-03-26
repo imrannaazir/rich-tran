@@ -12,8 +12,11 @@ const Products = () => {
 
     return (
         <div className='container'>
-            <div>
+            <div className='cart-container'>
                 <h1>this is cart</h1>
+                <p>h</p>
+
+
             </div>
             <div> <h1 className='heading'>Choose four products and get one tran.</h1>
 

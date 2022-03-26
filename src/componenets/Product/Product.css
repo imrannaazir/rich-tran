@@ -27,6 +27,7 @@
     position: absolute;
     bottom: -17px;
     width: 100%;
+    color: white;
 }
 .btn:hover{
     background-color: black;
