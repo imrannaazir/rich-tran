@@ -1,6 +1,6 @@
 # Rich-Tran
 
- #[Live website link:](https://quiet-mousse-856858.netlify.app/).
+ # [Live website link:](https://quiet-mousse-856858.netlify.app/).
 
 ## Available Scripts
 
