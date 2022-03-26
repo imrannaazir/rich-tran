@@ -1,3 +1,4 @@
+import Article from './componenets/Article/Article';
 import Header from './componenets/Header/Header';
 import Products from './componenets/Products/Products';
 // import 'bootstrap/dist/css/bootstrap.min.css';
@@ -7,6 +8,7 @@ function App() {
     <div className="App">
       <Header></Header>
       <Products></Products>
+      <Article></Article>
 
     </div>
   );

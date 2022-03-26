@@ -1,0 +1,14 @@
+.blog-container{
+    display: flex;
+    padding: 30px;
+    gap: 20px;
+    padding-top: 0;
+}
+h3{
+    text-align: center;
+}
+.blog{
+    border: 1px solid #ff007f ;
+    border-radius: 15px;
+    padding: 15px;
+}

@@ -7,7 +7,7 @@ const Header = () => {
         <div>
             <nav className='header'>
                 <img src={logo} alt="" />
-                <div>
+                <div class="navbar">
                     <a href="">Tran</a>
                     <a href="">Account</a>
                     <a href="">Support us</a>

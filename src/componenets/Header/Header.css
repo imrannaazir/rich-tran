@@ -16,8 +16,12 @@
 
 .header a{
     text-decoration: none;
-    margin-right: 15px;
+    margin-right: 17px;
     color: white;
+    font-size: 17px;
+}
+.navbar{
+    margin-right: 70px;
 }
 body{
     margin-top: 30px; 
