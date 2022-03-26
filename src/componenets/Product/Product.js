@@ -1,11 +1,14 @@
+// import 
 import React from 'react';
 import './Product.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 
+//create a function that receive mapping product data and a function as a prop
+
 
 const Product = ({ product, handleAddToCart }) => {
-    const { name, id, img, price } = product;
+    const { name, img, price } = product;
 
     return (
         <div className='product'>
