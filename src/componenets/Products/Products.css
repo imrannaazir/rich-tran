@@ -20,7 +20,36 @@
     font-size: 30px;
     color: #ff007f;
     text-align: center;
+    margin-top: 90px;
 }  
+.cart-heading{
+    color: wheat;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 600;
+}
 .cart-container{
-    margin-top: 40px; 
+    margin-top: 90px; 
+    background-color:#ff0080be;
+    margin-right: 30px;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+     top: 0;
+     border-radius: 20px;
+}
+.cart-info{
+    position: sticky;
+    top: 100px;
+    padding-left: 15px;
+}
+.cart-btn-container{
+    display: flex;
+    justify-content: space-around;
+}
+.cart-btn{
+    background-color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
 }
